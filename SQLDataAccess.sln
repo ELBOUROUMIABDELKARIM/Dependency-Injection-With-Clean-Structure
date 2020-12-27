@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormUI", "FormUI\FormUI.csproj", "{09045A4A-CA1B-4401-AAFC-48C67B7E0BFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{16658707-E80A-4489-BA4C-9CCCABB9DA8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09045A4A-CA1B-4401-AAFC-48C67B7E0BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09045A4A-CA1B-4401-AAFC-48C67B7E0BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09045A4A-CA1B-4401-AAFC-48C67B7E0BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09045A4A-CA1B-4401-AAFC-48C67B7E0BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16658707-E80A-4489-BA4C-9CCCABB9DA8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16658707-E80A-4489-BA4C-9CCCABB9DA8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16658707-E80A-4489-BA4C-9CCCABB9DA8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16658707-E80A-4489-BA4C-9CCCABB9DA8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10D31F37-6625-4411-BD73-BE655A302F56}
+	EndGlobalSection
+EndGlobal
